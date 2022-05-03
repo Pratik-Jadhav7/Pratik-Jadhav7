@@ -7,7 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/pratikjadhavv" target="blank"><img src="https://img.shields.io/twitter/follow/pratikjadhavv?logo=twitter&style=for-the-badge" alt="pratikjadhavv" /></a> </p>
 
+- 🧑‍🎓 I am Pratik Jadhav, currently embarking on my engineering journey from SKNCOE,Pune.
+ 
 - 🌱 I’m currently learning **Web Development**
+
+-  I ❤️ to make **exciting projects**.
+
+-  I'm currently working on a Frontend Development Project.
 
 - 💬 Ask me about **Java , Data Structures , Algorithms , HTML , CSS , JavaScript**
 
