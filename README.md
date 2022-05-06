@@ -17,7 +17,7 @@
 
 -  I'm currently working on a Frontend Development Project.
 
-• 👯 I’m looking to collaborate with such a great communities around the globe .
+-  👯 I’m looking to collaborate with such a great communities around the globe .
 
 - 💬 Ask me about **Java , Data Structures , Algorithms , HTML , CSS , JavaScript**
 
