@@ -11,13 +11,18 @@
  
 - 🌱 I’m currently learning **Web Development**
 
+- 🔭 I’m currently exploring Open source programs and contributions.
+
 -  I ❤️ to make **exciting projects**.
 
 -  I'm currently working on a Frontend Development Project.
 
+• 👯 I’m looking to collaborate with such a great communities around the globe .
+
 - 💬 Ask me about **Java , Data Structures , Algorithms , HTML , CSS , JavaScript**
 
-- 📫 How to reach me **itspratik360@gmail.com**
+- 📫 How to reach me **itspratik360@gmail.com** / 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
