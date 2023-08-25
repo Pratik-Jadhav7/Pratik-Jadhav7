@@ -1,43 +1,86 @@
 ![MasterHead](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
-<h1 align="center">Hi 👋, I'm Pratik Jadhav</h1>
-<h3 align="center">A passionate Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<h3 align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to Pratik Jadhav's profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Tech+Enthusiast;Learning+Web+Development;Nice+To+Meet+You+...&center=true"></a>
+
+</p>
+
+<!-- Badges template - https://github.com/badges/shields -->
+
+
+ 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-jadhav7&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-jadhav7" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pratikjadhavv" target="blank"><img src="https://img.shields.io/twitter/follow/pratikjadhavv?logo=twitter&style=for-the-badge" alt="pratikjadhavv" /></a> </p>
 
-- 🧑‍🎓 I am Pratik Jadhav, currently embarking on my engineering journey from SKNCOE,Pune.
+
+- 👋 Hello, I'm Pratik Jadhav, an engineering enthusiast currently on a learning journey at SKNCOE, Pune.
  
-- 🌱 I’m currently learning **Web Development**
-
-- 🔭 I’m currently exploring Open source programs and contributions.
-
--  I ❤️ to make **exciting projects**.
-
--  I'm currently working on a Frontend Development Project.
-
--  👯 I’m looking to collaborate with such a great communities around the globe .
-
-- 💬 Ask me about **Java , Data Structures , Algorithms , HTML , CSS , JavaScript**
-
-- 📫 How to reach me **itspratik360@gmail.com** / 
+- 🌱 Exploring the world of Web Development and building my skills in this exciting field.
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pratikjadhavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratikjadhavv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pratik-jadhav-86631a224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratik-jadhav-86631a224" height="30" width="40" /></a>
-<a href="https://instagram.com/itspratikjadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itspratikjadhav" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/itspratik360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/itspratik360" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/jpratik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/jpratik/" height="30" width="40" /></a>
-</p>
+- 💡 I'm all about turning ideas into exciting projects that solve real-world problems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+-  🚀 Currently immersed in a Frontend Development Project, crafting seamless user experiences.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik-jadhav7&show_icons=true&locale=en&layout=compact" alt="pratik-jadhav7" /></p>
+-  🌐 Excited to collaborate with inspiring communities worldwide to create something impactful together.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-jadhav7&show_icons=true&locale=en" alt="pratik-jadhav7" /></p>
+- 💬 Let's chat about Java, Data Structures, Algorithms, HTML, CSS, and JavaScript - I'm all ears!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-jadhav7&" alt="pratik-jadhav7" /></p>
+- 📫 Reach out to me at itspratik360@gmail.com
+
+- 🎮 When I'm not coding, you might find me gaming or exploring the latest in tech.
+
+- Let's learn, create, and innovate in this incredible journey of coding! 🧑‍💻🌟
+
+
+
+<h1>Technical Skills 🛠</h1>
+
+<p align="center"> 
+
+ <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+ <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-lightgreen?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql&logoColor=4EA94B" />
+ <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+       <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+    </p>
+
+
+## Connect with me  
+<div align="center">
+ <a href="https://www.linkedin.com/in/pratikjadhav2003/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Pratik-Jadhav7" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/PratikJadhavv" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+
+
+---
+
+|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-jadhav7&" alt="pratik-jadhav7" /> |<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-jadhav7&show_icons=true&locale=en" alt="pratik-jadhav7" /></p>|
+|---|---|
+
+ <div align="center">
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+</div>
+
+Leave a ⭐ from [here](https://github.com/Nishant-Bhosale/nishant-bhosale) if you like 😁
