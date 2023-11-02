@@ -83,4 +83,4 @@
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 </div>
 
-Leave a ⭐ from [here](https://github.com/Nishant-Bhosale/nishant-bhosale) if you like 😁
+Leave a ⭐ from [here](https://github.com/Pratik-Jadhav7/Pratik-Jadhav7) if you like 😁
