@@ -74,10 +74,9 @@
 </a>
 
 
----
 
-|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-jadhav7&" alt="pratik-jadhav7" /> |<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-jadhav7&show_icons=true&locale=en" alt="pratik-jadhav7" /></p>|
-|---|---|
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-jadhav7&" alt="pratik-jadhav7" /> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-jadhav7&show_icons=true&locale=en" alt="pratik-jadhav7" /></p>|
 
  <div align="center">
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
